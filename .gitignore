@@ -1,0 +1,4 @@
+*.o
+*.out
+my_zsh
+seg.c
